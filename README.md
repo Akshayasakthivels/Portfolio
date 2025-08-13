@@ -210,7 +210,8 @@ Upload to GitHub Pages for free hosting.
 
 ## OUTPUT
 
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/4fea99ab-79a8-4487-ad7d-75e115102932" />
+<img width="1920" height="968" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/0ee60ed7-19cd-42fe-bbab-1f0871af51d1" />
+<img width="1920" height="962" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/c8c140b6-acb6-47f3-a912-5339639e28e5" />
 
 
 ## RESULT
